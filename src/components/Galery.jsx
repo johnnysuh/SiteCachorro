@@ -1,7 +1,6 @@
 import React from 'react';
 import ItemImg from './ItemImg';
 import TextBig from './TextBig';
-//import '../styles/styles.scss';
 
 
 export default function Galery(){

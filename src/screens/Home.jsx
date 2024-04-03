@@ -1,11 +1,10 @@
 import React from 'react'
 import Banner from '../components/Banner'
 import Footer from '../components/Footer'
-import Header from '../components/header'
+import Header from '../components/Header'
 import About from '../components/About'
 import Galery from '../components/Galery'
-//import '../styles/styles.scss'
-
+import '../styles/styles.css'
 
 function Home(){
     return(
